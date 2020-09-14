@@ -1,2 +1,2 @@
 # **Here are the statistics for my solution**
-![Solution Stats](WordPattern.png)
+![Solution Stats](TwoSum.png)
