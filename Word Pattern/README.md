@@ -1,2 +1,2 @@
 # **Here are the statistics for my solution**
-![Solution Stats](WordPattern.png)
+![Solution Stats](https://github.com/shashwatroy/Leetcode/blob/master/images/WordPattern.png)
